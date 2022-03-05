@@ -1,0 +1,1 @@
+# omin_device_xiaomi_merlinx
